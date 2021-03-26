@@ -50,6 +50,9 @@ workman构建即时通讯，含单人多人聊天，IM视频会议，实时音�
   php start.php start   
   或者   
   nohup php /www/wwwroot/im/socket/start.php start >/dev/null 2>&1 &
+  
+9.前端打包之后拿到h5页面扔进public目录即可
+
 #### 使用说明
 
 前端资源链接：https://gitee.com/osacr/im-web
