@@ -52,7 +52,7 @@ workman构建即时通讯，含单人多人聊天，IM视频会议，实时音�
   nohup php /www/wwwroot/im/socket/start.php start >/dev/null 2>&1 &
 #### 使用说明
 
-前端资源链接：
+前端资源链接：https://gitee.com/osacr/im-web
 
 
 #### 特别注意，该项目仅限于php程序员交流学习，切勿商用！切勿用于违法运营！
